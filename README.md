@@ -1,6 +1,6 @@
 <h1> Hey there! I'm Nipuni Udari 👋 </h1>
 <h2> A Passionate Software Developer From Sri lanka </h2>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width="500"/>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/0819550f5122eb688ae4f6ca09bf6ac65312ee71b8d45aba5498f8667ad677a6/68747470733a2f2f61737369676e6d656e7473747564696f2e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f67697068792e67696622" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently Undergraduate at University of Sri Jayewardenepura.
