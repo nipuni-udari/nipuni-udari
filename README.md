@@ -58,7 +58,7 @@
 
 <p align="center">
 <div align="left">
- <a href="https://www.behance.net/nipuniudari1" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.behance.net/nipuniudari1" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nipuni-udari-922062218/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/NipuniUdari" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="http://www.nipuniudari.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
