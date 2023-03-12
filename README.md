@@ -11,15 +11,16 @@
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
 
+<div>
 <h3 align="left">✍️ Recent Blogs</h3>
-<div align="left">
+
  
   <a href="http://www.nipuniudari.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   
 </div>
-<div align="left">
-<h3>🛠 Tech Stack</h3>
 
+<h3>🛠 Tech Stack</h3>
+<div align="left">
 - 💻 &nbsp; Python | JavaScript | React |MERN  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap |  
 - 🛢 &nbsp; MySQL | Firebase | Postman | Mongo
