@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Enthusiast in Software engineering .
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
-
+<br>
 <div>
 <h3 align="left">✍️ Recent Blogs</h3>
 
@@ -28,6 +28,8 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 </div>
 <br>
+
+
 <div align="left">
 <h3 align="left">🚀 Tools & Technologies  :</h3>
 
