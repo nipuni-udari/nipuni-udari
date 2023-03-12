@@ -26,6 +26,7 @@
 - 🔧 &nbsp; Google Collab  | Visual Studio code  | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 </div>
+<br>
 <div align="left">
 <h3 align="left">🚀 Tools & Technologies  :</h3>
 
