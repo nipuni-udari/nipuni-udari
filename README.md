@@ -1,4 +1,5 @@
-<h1> Hey there! I'm Nipuni Udari 👋 </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Chandrika Deb</h1>
+<h3 align="center">git commit -m "Hello, I'm a UI UX Developer"</h3>
 <h2> A Passionate Software Developer From Sri lanka </h2>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/0819550f5122eb688ae4f6ca09bf6ac65312ee71b8d45aba5498f8667ad677a6/68747470733a2f2f61737369676e6d656e7473747564696f2e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f67697068792e67696622" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
