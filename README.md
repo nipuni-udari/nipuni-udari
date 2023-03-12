@@ -66,5 +66,12 @@
 
 </div>
 </p>
+<br>
+## 🐍 Snake game with my GitHub contributions
+
+
+![Snake animation](https://github.com/nipuni-udari/react-admin-panels/blob/output/github-contribution-grid-snake.svg)
+<!-- generated with [Platane/snk](https://github.com/Platane/snk)_ -->
+<br>
 
 ⭐️ From [nipuni-udari](https://github.com/nipuni-udari)
