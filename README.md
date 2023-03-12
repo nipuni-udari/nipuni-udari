@@ -11,6 +11,7 @@
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
 
+<br>
 <div>
 <h3 align="left">✍️ Recent Blogs</h3>
 
@@ -18,6 +19,7 @@
   <a href="http://www.nipuniudari.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   
 </div>
+<br>
 
 <div>
 <h3>🛠 Tech Stack</h3>
