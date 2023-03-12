@@ -18,9 +18,9 @@
   <a href="http://www.nipuniudari.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   
 </div>
-
+<div>
 <h3>🛠 Tech Stack</h3>
-<div align="left">
+
 - 💻 &nbsp; Python | JavaScript | React |MERN  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap |  
 - 🛢 &nbsp; MySQL | Firebase | Postman | Mongo
