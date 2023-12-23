@@ -25,7 +25,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | React |MERN  
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap |  
+- 🌐 &nbsp; Full-Stack | React | HTML | CSS | Java | Bootstrap |  
 - 🛢 &nbsp; MySQL | Firebase | Postman | Mongo
 - 🔧 &nbsp; Google Collab  | Visual Studio code  | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
