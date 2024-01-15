@@ -2,7 +2,7 @@
 <h2> 😎 A Passionate Software and UI/UX Developer From Sri lanka </h2>
 
 
-<img align="right" alt="GIF" src="![output-onlinegiftools](https://github.com/nipuni-udari/nipuni-udari/assets/84343511/b8d9d4b3-195d-41a9-ab51-8a461111a8b0)" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/nipuni-udari/nipuni-udari/assets/84343511/b8d9d4b3-195d-41a9-ab51-8a461111a8b0" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently Undergraduate at University of Sri Jayewardenepura.
