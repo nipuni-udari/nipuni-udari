@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">😇 I'm Udari Rajapaksha</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">😇 I'm Nipuni Udari Rajapaksha</h1>
 <h2> 😎 A Passionate Software and UI/UX Developer From Sri lanka </h2>
 
 
